@@ -1,4 +1,6 @@
+
 import numpy as np
+
 from scipy import stats
 
 size = int(input())
